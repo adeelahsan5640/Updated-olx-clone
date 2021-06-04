@@ -1,0 +1,6 @@
+body{
+    background-color:#f7f8fc;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
